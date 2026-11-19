@@ -1,0 +1,10 @@
+,finding
+monthly,"Highest month 1 (124), lowest month 9 (48) ug/m3."
+hourly,"Daily peak at 22:00 IST (101), trough at 15:00 IST (59) ug/m3."
+weekend,Weekend mean 83 vs weekday 82 ug/m3.
+categories,Poor-or-worse share peaks in month 1 at 82% of hours.
+diwali,"Mean PM2.5 on Diwali and the two days after, relative to the days before it: 2024: x0.95, 2025: x1.41."
+weather,"Spearman correlation with PM2.5: wind_speed_10m -0.28, relative_humidity_2m +0.04, temperature_2m -0.27, precipitation -0.32."
+autocorrelation,"Autocorrelation of log PM2.5 at 24 hours is 0.76, at 168 hours 0.51."
+stationarity,ADF p-value on the last year of log PM2.5: 4.26e-10. Daily seasonal strength in the last 120 days: 0.38.
+location_similarity,"Lowest correlation between two locations' PM2.5 is 0.80, mean 0.88."

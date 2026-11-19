@@ -1,0 +1,4 @@
+variant,mae_h24,note
+"log target, with forecast weather",24.764908586636835,every second walk-forward fold (6 of 12)
+"raw target, with forecast weather",24.770550018030665,every second walk-forward fold (6 of 12)
+"log target, without forecast weather",27.089753218578256,every second walk-forward fold (6 of 12)
